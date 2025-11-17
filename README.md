@@ -2,8 +2,8 @@
  
 > ### Seja bem-vindo(a)! 👋🏻
 
- - 📚 Cursando Desenvolvimento de Sistemas.
- - 👩🏻‍🎓 Formada no Curso Técnico de Redes de Computadores.
+ - 📚 Cursando Tecnólogo em Desenvolvimento de Software pela Fatec Mauá.
+ - 👩🏻‍🎓 Formada no Curso Técnico de Redes de Computadores e no Curso Técnico de Desenvolvimento de Sistemas.
  - 🧐 Disposta e aberta a novas oportunidades.
 
 > **“Não somos o que sabemos, somos o que estamos dispostos a aprender!”** 💡
